@@ -1,0 +1,229 @@
+{
+  "generated_at": "2026-11-28T06:54:41+00:00",
+  "channels": 753,
+  "channels_main": 274,
+  "programmes": 62713,
+  "quality": {
+    "programmes": 62713,
+    "with_genre": 62713,
+    "with_rating": 31844,
+    "with_synopsis": 61391,
+    "placeholders": 15,
+    "estimated": 17787
+  },
+  "coverage_24h": {
+    "channels": 753,
+    "full_95": 649,
+    "half_50": 706
+  },
+  "coverage_72h": {
+    "channels": 753,
+    "full_95": 419,
+    "half_50": 690
+  },
+  "missing_logos": 11,
+  "sources_ok": 19,
+  "sources_total": 20,
+  "low_coverage_72h_sample": [
+    {
+      "id": "AvatarALendaDeAang.br",
+      "hours": 0.6
+    },
+    {
+      "id": "Ufc.br",
+      "hours": 2.4
+    },
+    {
+      "id": "OggyEAsBaratasTontas.br",
+      "hours": 6.5
+    },
+    {
+      "id": "Premiere7.br",
+      "hours": 6.5
+    },
+    {
+      "id": "Premiere6.br",
+      "hours": 9.5
+    },
+    {
+      "id": "PlutoKidsClub.br",
+      "hours": 10.1
+    },
+    {
+      "id": "PlutoAnime.br",
+      "hours": 10.3
+    },
+    {
+      "id": "PlutoRetro.br",
+      "hours": 10.4
+    },
+    {
+      "id": "PlutoJunior.br",
+      "hours": 10.6
+    },
+    {
+      "id": "NickJrClub.br",
+      "hours": 10.7
+    },
+    {
+      "id": "PlutoSeriesComedia.br",
+      "hours": 10.7
+    },
+    {
+      "id": "MtvClassic.br",
+      "hours": 10.8
+    },
+    {
+      "id": "MtvReality.br",
+      "hours": 10.8
+    },
+    {
+      "id": "PlutoKids.br",
+      "hours": 10.8
+    },
+    {
+      "id": "PlutoNatureza.br",
+      "hours": 11.0
+    },
+    {
+      "id": "BabySharkTv.br",
+      "hours": 11.2
+    },
+    {
+      "id": "MtvPlutoTv.br",
+      "hours": 11.2
+    },
+    {
+      "id": "PlutoNovelas.br",
+      "hours": 11.2
+    },
+    {
+      "id": "PlutoInvestigacao.br",
+      "hours": 11.3
+    },
+    {
+      "id": "BetPluto.br",
+      "hours": 11.4
+    },
+    {
+      "id": "NarutoShippuden.br",
+      "hours": 11.4
+    },
+    {
+      "id": "PlutoDesenhosClassicos.br",
+      "hours": 11.4
+    },
+    {
+      "id": "PlutoCineDrama.br",
+      "hours": 11.6
+    },
+    {
+      "id": "PlutoViagens.br",
+      "hours": 11.8
+    },
+    {
+      "id": "CanalDeVendasNet.br",
+      "hours": 12.0
+    },
+    {
+      "id": "Moviesphere.br",
+      "hours": 12.3
+    },
+    {
+      "id": "PlutoCineTerror.br",
+      "hours": 13.0
+    },
+    {
+      "id": "PlutoFilmesNacionais.br",
+      "hours": 13.1
+    },
+    {
+      "id": "PlutoCineComedia.br",
+      "hours": 13.4
+    },
+    {
+      "id": "PlutoCineFamilia.br",
+      "hours": 13.6
+    },
+    {
+      "id": "PlutoCineComediaRomantica.br",
+      "hours": 14.3
+    },
+    {
+      "id": "AdrenalinaPuraTv.br",
+      "hours": 14.6
+    },
+    {
+      "id": "PlutoCozinha.br",
+      "hours": 14.7
+    },
+    {
+      "id": "PlutoFiccaoCientifica.br",
+      "hours": 14.7
+    },
+    {
+      "id": "PlutoHistoria.br",
+      "hours": 14.8
+    },
+    {
+      "id": "FilmelierTv.br",
+      "hours": 14.9
+    },
+    {
+      "id": "PlutoCineRomance.br",
+      "hours": 15.0
+    },
+    {
+      "id": "RedBullTv.br",
+      "hours": 15.4
+    },
+    {
+      "id": "PlutoCineSucessos.br",
+      "hours": 15.9
+    },
+    {
+      "id": "PlutoFilmesAcao.br",
+      "hours": 16.0
+    },
+    {
+      "id": "Popeye.br",
+      "hours": 16.9
+    },
+    {
+      "id": "PlutoCineClassicos.br",
+      "hours": 17.3
+    },
+    {
+      "id": "DoraAAventureira.br",
+      "hours": 19.1
+    },
+    {
+      "id": "Premiere9.br",
+      "hours": 24.0
+    },
+    {
+      "id": "BigBrother.br",
+      "hours": 24.0
+    },
+    {
+      "id": "ConmebolTv1.br",
+      "hours": 24.0
+    },
+    {
+      "id": "ConmebolTv2.br",
+      "hours": 24.0
+    },
+    {
+      "id": "ConmebolTv3.br",
+      "hours": 24.0
+    },
+    {
+      "id": "Novelissima.br",
+      "hours": 24.0
+    },
+    {
+      "id": "Paramount.br",
+      "hours": 24.0
+    }
+  ]
+}

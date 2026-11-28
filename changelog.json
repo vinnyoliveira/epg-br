@@ -1,0 +1,202 @@
+[
+  {
+    "generated_at": "2026-11-28T06:54:41+00:00",
+    "initial": false,
+    "channels": 753,
+    "programmes": 62713,
+    "programme_delta": -1075,
+    "added": [],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-27T23:55:46+00:00",
+    "initial": false,
+    "channels": 753,
+    "programmes": 63788,
+    "programme_delta": -984,
+    "added": [],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-27T02:04:51+00:00",
+    "initial": false,
+    "channels": 750,
+    "programmes": 64307,
+    "programme_delta": 244,
+    "added": [
+      {
+        "id": "TVSudoeste.br",
+        "name": "Globo TV Sudoeste"
+      }
+    ],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-26T00:01:40+00:00",
+    "initial": false,
+    "channels": 749,
+    "programmes": 62121,
+    "programme_delta": -343,
+    "added": [],
+    "removed": [
+      {
+        "id": "CanalLegislativo.br",
+        "name": "Canal Legislativo"
+      }
+    ],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-24T19:23:46+00:00",
+    "initial": false,
+    "channels": 752,
+    "programmes": 64269,
+    "programme_delta": 994,
+    "added": [],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-23T19:55:35+00:00",
+    "initial": false,
+    "channels": 752,
+    "programmes": 63761,
+    "programme_delta": 109,
+    "added": [],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-23T02:02:10+00:00",
+    "initial": false,
+    "channels": 752,
+    "programmes": 64231,
+    "programme_delta": 595,
+    "added": [],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-22T02:04:01+00:00",
+    "initial": false,
+    "channels": 752,
+    "programmes": 63810,
+    "programme_delta": 406,
+    "added": [
+      {
+        "id": "TVSudoeste.br",
+        "name": "Globo TV Sudoeste"
+      }
+    ],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-21T01:08:27+00:00",
+    "initial": false,
+    "channels": 750,
+    "programmes": 63620,
+    "programme_delta": -1284,
+    "added": [],
+    "removed": [],
+    "partial": true,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-19T22:56:07+00:00",
+    "initial": false,
+    "channels": 749,
+    "programmes": 65788,
+    "programme_delta": -1768,
+    "added": [
+      {
+        "id": "TvVitoriosa.br",
+        "name": "TV Vitoriosa"
+      }
+    ],
+    "removed": [],
+    "partial": false,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-19T01:45:21+00:00",
+    "initial": false,
+    "channels": 748,
+    "programmes": 67013,
+    "programme_delta": -1209,
+    "added": [],
+    "removed": [],
+    "partial": false,
+    "notes": []
+  },
+  {
+    "generated_at": "2026-11-18T02:03:23+00:00",
+    "initial": false,
+    "channels": 748,
+    "programmes": 63344,
+    "programme_delta": 401,
+    "added": [
+      {
+        "id": "RecordTVSaoPaulo.br",
+        "name": "RecordTV SP []"
+      }
+    ],
+    "removed": [],
+    "partial": false,
+    "notes": [
+      "Canais que estavam fora da grade voltaram a aparecer.",
+      "Nomes duplicados de canais foram unificados, deixando a lista mais limpa.",
+      "Cobertura de programação ampliada com novas fontes de dados.",
+      "Correção dos intervalos de 1 segundo que deixavam faixas vazias na grade.",
+      "Programas com classificação 18 agora aparecem com 🔞.",
+      "As descrições não repetem mais o nome do programa.",
+      "Gêneros agora 100% no padrão Android TV, com cor e filtro no Sparkle.",
+      "Títulos longos foram limpos e separados em título e subtítulo.",
+      "Canais de eventos não mostram mais o nome do canal como programa.",
+      "Canais FAST sem grade completa recebem programação estimada, claramente marcada.",
+      "Canais de evento não recebem grade estimada; continuam com aviso até a fonte real.",
+      "Classificação indicativa em formato numérico e brasileiro.",
+      "Nomes alternativos dos canais para facilitar o casamento no player.",
+      "Novos arquivos leve e 24h para players com pouca memória.",
+      "Arquivos leves agora também sem ficha técnica, menores para boxes antigas.",
+      "Relatório público de qualidade e cobertura, sem nomes de fontes.",
+      "Monitoramento de queda anormal de fonte para evitar grade incompleta.",
+      "Canais duplicados unificados, incluindo SBT Kids, Music Box, Novo Tempo, Prime Box, Sony Movies, TCM, History e Bloomberg.",
+      "Mais duplicados unificados: CNN, Universal, Warner, Sony, Boa Vontade, Fuel TV, History, Travel Box, USA Network, CNN Money, MasterChef, MovieSphere, TV TEM, Inter TV dos Vales, Inter TV Cabugi e Globo Liberal Belém.",
+      "Revisão de duplicados com IA para os próximos lotes de canais.",
+      "Novo arquivo completo enriquecido de 24 horas.",
+      "Downloads agrupados por Completo e Principais, com botão copiar em cada link.",
+      "FAQ ampliado e menu de compartilhamento com WhatsApp, Telegram, X e Reddit.",
+      "Canais da mesma rede agora compartilham rating, sinopse, imagem, duração e episódio do mesmo programa.",
+      "Títulos como 'Jornal Nacional - ao vivo' e 'Chef de Alto Nível - 2ª temporada' foram limpos.",
+      "Programas estimados não sobrescrevem mais os metadados reais dos canais irmãos.",
+      "Site com favoritos, 3 dias de grade, sinopse no diálogo, links por canal e nova identidade visual.",
+      "Guia de instalação e perguntas frequentes na página inicial.",
+      "Compartilhamento com Open Graph e página pronta para buscadores.",
+      "Atualização automática mais frequente e com aviso em caso de falha.",
+      "Relatório de qualidade da grade disponível para consulta.",
+      "Gêneros compatíveis com Android TV, para as cores da grade no Sparkle TV."
+    ]
+  },
+  {
+    "generated_at": "2026-11-15T18:45:44.750178+00:00",
+    "initial": false,
+    "channels": 776,
+    "programmes": 47553,
+    "programme_delta": -1,
+    "added": [],
+    "removed": [],
+    "partial": false
+  }
+]
